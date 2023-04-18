@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#header {
+  text-align: center;
+}
+
+#header > h1 {
+  margin-top: 5%;
+}
+
+#header > h2 {
+  margin-top: 2%;
+}
