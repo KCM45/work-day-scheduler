@@ -1,5 +1,4 @@
-import dayjs from 'dayjs';
 
 let now = dayjs();
-
-console.log(now.format());
+let displayDate = document.querySelector("#displayDate");
+displayDate.textContent = now.format("dddd, MMM D YYYY");
