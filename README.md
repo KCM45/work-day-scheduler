@@ -1,2 +1,10 @@
+<!-- @format -->
+
 # work-day-scheduler
-Work day scheduler
+
+## Description
+
+A day schedule for the busy person
+
+[GitHub Repo](https://github.com/KCM45/work-day-scheduler)
+`

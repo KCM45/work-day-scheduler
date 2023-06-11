@@ -55,6 +55,9 @@ $(document).ready(function () {
     //       );
     //   }
 
+    // let frank;
+    // frank.classList.add('ketchup', 'mustard');
+
     //   // Set description area gray if before current time
     //   else if (displayTime.isBefore(now)) {
     //     document
